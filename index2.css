@@ -1,0 +1,9 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-image: linear-gradient(#252525,#4545);
+    font-family: flex;
+    background-color: brown;
+}

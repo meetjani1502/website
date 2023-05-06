@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-position: center;
+}
+body {
+  font-family: montserrat;
+}
+nav {
+  background-color: aqua;
+  height: 80px;
+  width: 100%;
+  background-image: linear-gradient(#00ff00, #cbd6e2);
+}
+label.ul {
+  color: blue;
+  font-size: 45px;
+  line-height: 80px;
+  font-weight: bold;
+}
+nav ul {
+  float: right;
+  line-height: 15px;
+}
+nav ul li {
+  display: inline-block;
+  line-height: 0 5px;
+  margin: 0 5px;
+}
+nav li a:hover {
+  color: cadetblue;
+}
+.header{
+  font-size: 100%;
+  text-align: left;
+}
